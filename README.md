@@ -15,7 +15,6 @@ This repository is for:
 - Useful links, references, and questions to explore later
 
 ## Structure
-
 <!--
   ```
   knowledge/
