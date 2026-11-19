@@ -53,6 +53,8 @@ The main idea in a few sentences, in my own words.
 ## Examples
 Code or real-world examples.
 
+## My takeaways
+
 ## Questions / next steps
 What I still don't understand or want to explore.
 ```
