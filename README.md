@@ -31,6 +31,7 @@ This repository is for:
 ```
 knowledge/
 ├── books/          # One file per book: key ideas, quotes (short), takeaways
+├── topics/empty         # Notes organized by subject (e.g. python, networking, databases)
 └── README.md
 ```
 
